@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\OneDrive\\Desktop\\Assesment\\Task2-Code Fisrt Approach\\Task1_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA6DEB9-8A1C-41A5-9A3E-BDE49C3E3907}|Task1_Backend.csproj|c:\\users\\acer\\onedrive\\desktop\\assesment\\task2-code fisrt approach\\task1_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EA6DEB9-8A1C-41A5-9A3E-BDE49C3E3907}|Task1_Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA6DEB9-8A1C-41A5-9A3E-BDE49C3E3907}|Task1_Backend.csproj|c:\\users\\acer\\onedrive\\desktop\\assesment\\task2-code fisrt approach\\task1_backend\\migrations\\20240222040758_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA6DEB9-8A1C-41A5-9A3E-BDE49C3E3907}|Task1_Backend.csproj|solutionrelative:migrations\\20240222040758_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240222040758_init.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Assesment\\Task2-Code Fisrt Approach\\Task1_Backend\\Migrations\\20240222040758_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240222040758_init.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\Assesment\\Task2-Code Fisrt Approach\\Task1_Backend\\Migrations\\20240222040758_init.cs",
+              "RelativeToolTip": "Migrations\\20240222040758_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T04:07:58.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Assesment\\Task2-Code Fisrt Approach\\Task1_Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\Assesment\\Task2-Code Fisrt Approach\\Task1_Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-22T04:07:15.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
